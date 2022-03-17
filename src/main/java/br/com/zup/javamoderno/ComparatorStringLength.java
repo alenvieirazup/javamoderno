@@ -1,4 +1,4 @@
-package java8;
+package br.com.zup.javamoderno;
 
 import java.util.Comparator;
 
