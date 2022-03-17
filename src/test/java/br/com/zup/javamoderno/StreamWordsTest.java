@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 
-public class StreamWords {
+public class StreamWordsTest {
 
     private final List<String> words = List.of("itau", "serasa", "zup");
     private final String newline = System.lineSeparator();
