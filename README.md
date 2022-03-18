@@ -1,4 +1,4 @@
-# Java Morderno
+# Java Moderno
 
 Projeto para assimilar o conteúdo do curso [Java moderno: tire proveito dos novos recursos do Java 8](https://cursos.alura.com.br/course/java8-lambdas) . O princípio foi utilizar testes automatizados para guiar a utilização dos principais conceitos do curso.
 
